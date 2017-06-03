@@ -1,0 +1,6 @@
+{
+  "name": "Sample java",
+  "description": "A barebones java app using Express 4",
+  "repository": "https://github.com/Vineetavi8/HelloWorld",
+  "keywords": ["java", "express", "static"]
+}
